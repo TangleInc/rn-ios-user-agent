@@ -1,11 +1,11 @@
 {
   "name": "rn-ios-user-agent",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Set (and unset) a UserAgent to be used in WebView.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehcode/rn-ios-user-agent.git"
+    "url": "git+https://github.com/TangleInc/rn-ios-user-agent.git"
   },
   "keywords": [
     "react-native",
@@ -16,9 +16,9 @@
   "author": "Ryan Leckey <leckey.ryan@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mehcode/rn-ios-user-agent/issues"
+    "url": "https://github.com/TangleInc/rn-ios-user-agent/issues"
   },
-  "homepage": "https://github.com/mehcode/rn-ios-user-agent#readme",
+  "homepage": "https://github.com/TangleInc/rn-ios-user-agent#readme",
   "devDependencies": {
     "react-native": "^0.31.0"
   },
