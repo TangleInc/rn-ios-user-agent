@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '10.0'
   # git@github.com:mehcode/rn-ios-user-agent.git
   s.source       = { :git => "https://github.com/TangleInc/rn-user-agent.git", :tag => "v#{s.version}" }
-  s.source_files  = "./**/*.{h,m}"
+  s.source_files  = "RNUserAgent/*.{h,m}"
 
   s.dependency 'React'
 end
